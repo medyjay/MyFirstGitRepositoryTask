@@ -4,7 +4,7 @@ using System.Text;
 using System.Collections;
 
 
-namespace BankingApplication
+namespace BankingApp
 {
     class AccountTest
     {

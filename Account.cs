@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Text;
 
 
-namespace BankingApplication
+namespace BankingApp
 {
     //Naming the class Account
     class Account
@@ -69,3 +69,4 @@ namespace BankingApplication
         }//end method
     }//
 }//end class Account
+
